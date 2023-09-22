@@ -1,0 +1,5 @@
+The following is needed for the sending process to work:
+
+-Must have 2-Step Authenticator activated
+-Must enable a App Password
+-DO NOT BUT ON GITHUB WITH PASSWORD ON THE TXT.FILE, REPLACE IT WITH ADD APP PASSWORD

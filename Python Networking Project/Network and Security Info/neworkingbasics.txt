@@ -1,0 +1,39 @@
+
+                      Networking Basics
+ 
+Payload- 
+
+Payload is the essential data that is being carried with a packet
+It is used to distinguish between the 'interesting' information in a chunk of data or similar.
+
+Header-
+
+Headers are supplemental information located at the beginning of frames 
+or packets. Commonly, headers are structured following a protocol. 
+So, in a given position of a header, predetermined data must be available.
+With TCP, the IPv6 header has a minimum of 20 bytes and a maximum of 60 bytes
+
+
+Overhead- 
+Additional data that you need in order to send your payload.
+
+SMTP- 
+The Simple Mail Transfer Protocol is an Internet standard communication protocol for electronic 
+mail transmission.
+
+Port Numbers-
+way to identify a specific process to which an internet or other network message 
+is to be forwarded when it arrives at a server. Port numbers is at the Transport
+Layer (OSI Model) or the Host-Host layer (TCP/IP) layer.
+
+
+Transport Layer-
+he second layer in the TCP/IP model and the fourth layer in the OSI model.
+ It is an end-to-end layer used to deliver messages to a host. 
+ It is termed an end-to-end layer.
+
+ Port 587-
+ Outgoing SMTP Mail port (TLS/Start TLS Port) - used by various mail servers for relaying outgoing mail 
+ as a modern alternative to port 25. Gmail, Apple MobileMe Mail, Yahoo SMTP server, etc. all use 
+ this port.
+

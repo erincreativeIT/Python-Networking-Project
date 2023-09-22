@@ -1,0 +1,12 @@
+Hello World!
+
+  This is a mail sent with Python!
+ 
+   Be on the look out for future emails that will showcase Tech and Creativity!
+
+Follow VioletsCreative
+
+Kind regards!
+VioletsCreative
+
+"Always be Coding" - Lou M.
